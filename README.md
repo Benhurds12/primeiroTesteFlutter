@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Primeiro app teste em flutter baseado em um app contador de pessoas fornecido pelo professor, decidi fazer o inicio de um app que monitora a ingestão de água, para que a pessoa bata uma meta diária. Só um primeiro teste
 
 A few resources to get you started if this is your first Flutter project:
 
